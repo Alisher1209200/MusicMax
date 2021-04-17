@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,CAAC;EACE,WAAW,EAAE,qBAAqB;EAClC,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACb;;AEJD,AAAA,YAAY,CAAA;EACR,gBAAgB,EDDP,OAAO;ECEhB,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;CAChB",
+    "sources": [
+        "../sass/style.scss",
+        "../sass/variable/_variables.scss",
+        "../sass/blocks/_leftsidebar.scss"
+    ],
+    "names": [],
+    "file": "style.min.css"
+}
